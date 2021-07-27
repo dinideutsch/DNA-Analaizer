@@ -1,8 +1,8 @@
-##DNA PROJECT
-####Description
+## DNA PROJECT
+#### Description
 This project stands for creating and manipulating DNA sequences,
 using special command lines.
-####Usage
+#### Usage
 run the main function in the main file
 and then use one or more of the following commands:
 * Create a DNA sequence ATC named first (if no @name will be sent, a default name will be generated):
